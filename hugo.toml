@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sugar-coding.netlify.app/"
 languageCode = 'ko'
 title = 'SugarCoding Blog'
 theme = "PaperMod"

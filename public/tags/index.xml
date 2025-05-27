@@ -2,37 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on SugarCoding Blog</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on SugarCoding Blog</description>
     <image>
       <title>SugarCoding Blog</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Jul 2024 15:00:00 +0900</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>가이드</title>
-      <link>//localhost:1313/tags/%EA%B0%80%EC%9D%B4%EB%93%9C/</link>
-      <pubDate>Tue, 30 Jul 2024 15:00:00 +0900</pubDate>
-      <guid>//localhost:1313/tags/%EA%B0%80%EC%9D%B4%EB%93%9C/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>구문</title>
-      <link>//localhost:1313/tags/%EA%B5%AC%EB%AC%B8/</link>
-      <pubDate>Tue, 30 Jul 2024 15:00:00 +0900</pubDate>
-      <guid>//localhost:1313/tags/%EA%B5%AC%EB%AC%B8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>샘플</title>
-      <link>//localhost:1313/tags/%EC%83%98%ED%94%8C/</link>
-      <pubDate>Tue, 30 Jul 2024 15:00:00 +0900</pubDate>
-      <guid>//localhost:1313/tags/%EC%83%98%ED%94%8C/</guid>
-      <description></description>
-    </item>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
